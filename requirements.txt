@@ -5,3 +5,5 @@ transformers
 flask-cors
 torch
 tensorflow
+keras<3
+tf-keras
